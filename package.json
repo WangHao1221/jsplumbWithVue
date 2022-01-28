@@ -10,7 +10,15 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "element-ui": "2.9.1",
+    "jquery": "^3.5.1",
+    "lodash": "4.17.15",
+    "vuedraggable": "2.23.0",
+    "html2canvas": "^0.5.0-beta4",
+    "canvg": "1.5.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

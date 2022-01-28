@@ -22,9 +22,9 @@ yarn build
 
 ![image](https://github.com/WangHao1221/jsplumbWithVue/raw/master/src/assets/p2.png)
 
-![p1](/Users/wanghao/Desktop/test-jsplumb-choreography/src/assets/p1.png)
+![image](https://github.com/WangHao1221/jsplumbWithVue/raw/master/src/assets/p1.png)
 
-![p3](/Users/wanghao/Desktop/test-jsplumb-choreography/src/assets/p3.png)
+![image](https://github.com/WangHao1221/jsplumbWithVue/raw/master/src/assets/p3.png)
 
 ### Customize configuration
 

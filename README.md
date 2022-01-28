@@ -20,7 +20,7 @@ yarn build
 
 ### project preview
 
-![p2](/Users/wanghao/Desktop/test-jsplumb-choreography/src/assets/p2.png)
+![image](https://github.com/WangHao1221/jsplumbWithVue/raw/master/assets/p2.png)
 
 ![p1](/Users/wanghao/Desktop/test-jsplumb-choreography/src/assets/p1.png)
 
